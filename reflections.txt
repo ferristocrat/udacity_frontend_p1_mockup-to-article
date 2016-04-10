@@ -1,0 +1,9 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+This project was added after I began the course, and I have now finished all the other projects and am doing this one so that the course is complete.  I have learned a lot from FEWD, but the short of it is this: HTML, CSS, JavaScript.  Some of the basic components of HTML/CSS have been easy, but it has been difficult to always write clean code, document my work and regularly commit changes.
