@@ -1,4 +1,4 @@
-# Neighborhood Map Project
+# Mockup to Article
 Udacity Front End Web Development - Project 1: Mockup to Article
 
 ## Synopsis
@@ -9,5 +9,4 @@ This is the very first project for Udacity's **Front End Web Development** cours
 
 * **index.html:** HTML page based on mockup
 * **blog-mockup.png:** Image of the mockup that needed to be matched in HTML
-* **knockout-3.4.0.js:** Knockout JavaScript library
 * **reflections.txt:** Short reflection on this project
